@@ -1,0 +1,11 @@
+{
+  "name": "node-starter",
+  "version": "0.0.0",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@esri/proj-codes": "^2.9.0",
+    "proj4": "^2.8.0"
+  }
+}
